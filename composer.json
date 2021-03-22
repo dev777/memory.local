@@ -1,0 +1,7 @@
+{
+    "name": "dev/memory",
+    "description": "Simple memory game HTML CSS JS PHP MariaDB",
+    "type": "project",
+    "minimum-stability": "dev",
+    "require": {}
+}

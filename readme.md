@@ -8,3 +8,4 @@ Technical test - write a memory game HTML / CSS / JS - Handle scores with PHP DP
 ## TODO
 - PRS4 compliant
 - concat the 2 cards sets
+- avoid CSS cheating .hidden { /*background: #797979;*/ }
